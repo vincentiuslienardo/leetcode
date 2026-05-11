@@ -1,0 +1,124 @@
+# LeetCode C++ Solutions
+
+LeetCode-ready C++ solutions, organized by problem number and grouped against the NeetCode 150 topic roadmap.
+
+This repository is intentionally lightweight: each solution file should be easy to find, ready for the LeetCode editor, and free of local harness code that would get in the way of the online judge.
+
+## Goals
+
+- Keep every solution focused on the `class Solution` implementation.
+- Make problem lookup predictable through consistent numbering and filenames.
+- Track coverage by topic so practice progress is visible over time.
+- Preserve explanations and tradeoffs in the README or comments only when they add value.
+
+## Repository Layout
+
+Once populated, solutions should be stored in 100-problem buckets:
+
+```text
+.
+├── README.md
+├── 0001-0099/
+│   ├── 0001-two-sum.cpp
+│   └── 0042-trapping-rain-water.cpp
+├── 0100-0199/
+│   └── 0121-best-time-to-buy-and-sell-stock.cpp
+└── 0200-0299/
+    └── 0217-contains-duplicate.cpp
+```
+
+Directory names use inclusive ranges. File names use this format:
+
+```text
+<4-digit-problem-id>-<kebab-case-title>.cpp
+```
+
+Examples:
+
+- `0001-two-sum.cpp`
+- `0049-group-anagrams.cpp`
+- `0238-product-of-array-except-self.cpp`
+
+## Solution Format
+
+Each `.cpp` file should contain only the code LeetCode expects in the editor:
+
+```cpp
+class Solution {
+public:
+    // implementation
+};
+```
+
+Do not commit local-only scaffolding such as:
+
+- `#include` lines
+- `using namespace std;`
+- `main()`
+- debug printing
+- local test harnesses
+
+For linked list, tree, graph node, and similar problems, rely on the type definitions provided by LeetCode unless the problem explicitly asks for a custom class.
+
+## Adding a Solution
+
+1. Find the correct 100-problem bucket.
+2. Create the solution file using the naming convention above.
+3. Add only the accepted LeetCode editor code.
+4. Add the problem to the solution catalog below.
+5. Include the intended time and space complexity when it is useful.
+
+Suggested catalog row:
+
+```markdown
+| 0001 | Two Sum | Easy | Arrays & Hashing | [C++](0001-0099/0001-two-sum.cpp) | O(n) | O(n) |
+```
+
+## Topic Roadmap
+
+Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/neetcode150).
+
+| # | Topic | Status |
+|---:|---|---|
+| 1 | Arrays & Hashing | Not started |
+| 2 | Two Pointers | Not started |
+| 3 | Sliding Window | Not started |
+| 4 | Stack | Not started |
+| 5 | Binary Search | Not started |
+| 6 | Linked List | Not started |
+| 7 | Trees | Not started |
+| 8 | Tries | Not started |
+| 9 | Heap / Priority Queue | Not started |
+| 10 | Backtracking | Not started |
+| 11 | Graphs | Not started |
+| 12 | Advanced Graphs | Not started |
+| 13 | 1-D Dynamic Programming | Not started |
+| 14 | 2-D Dynamic Programming | Not started |
+| 15 | Greedy | Not started |
+| 16 | Intervals | Not started |
+| 17 | Math & Geometry | Not started |
+| 18 | Bit Manipulation | Not started |
+
+## Solution Catalog
+
+No solutions have been added yet.
+
+When solutions are added, use this table format:
+
+```markdown
+| # | Problem | Difficulty | Topic | Solution | Time | Space |
+|---:|---|---|---|---|---|---|
+| 0001 | Two Sum | Easy | Arrays & Hashing | [C++](0001-0099/0001-two-sum.cpp) | O(n) | O(n) |
+```
+
+## Local Testing
+
+The committed solution files are optimized for LeetCode's editor, not for direct local compilation. If local testing is needed, create a temporary scratch file with includes, helper definitions, and a `main()` function. Files named `scratch*` are ignored by Git.
+
+## Conventions
+
+- Prefer clear, accepted solutions over overly compressed code.
+- Use standard LeetCode class and method signatures exactly as provided.
+- Keep comments short and focused on non-obvious reasoning.
+- Name helper functions and variables descriptively enough to make future review easy.
+- Avoid committing multiple competing approaches for the same problem unless the tradeoff is meaningful.

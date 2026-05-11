@@ -1,0 +1,36 @@
+# C++ build artifacts
+*.d
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+Build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Local scratch and temporary files
+scratch*
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Editor and OS metadata
+.DS_Store
+.idea/
+.vscode/
+.claude/settings.local.json
