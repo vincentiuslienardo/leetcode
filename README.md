@@ -80,7 +80,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 
 | # | Topic | Status |
 |---:|---|---|
-| 1 | Arrays & Hashing | Not started |
+| 1 | Arrays & Hashing | In progress |
 | 2 | Two Pointers | Not started |
 | 3 | Sliding Window | Not started |
 | 4 | Stack | Not started |
@@ -101,15 +101,9 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 
 ## Solution Catalog
 
-No solutions have been added yet.
-
-When solutions are added, use this table format:
-
-```markdown
 | # | Problem | Difficulty | Topic | Solution | Time | Space |
 |---:|---|---|---|---|---|---|
-| 0001 | Two Sum | Easy | Arrays & Hashing | [C++](0001-0099/0001-two-sum.cpp) | O(n) | O(n) |
-```
+| 0217 | Contains Duplicate | Easy | Arrays & Hashing | [C++](0200-0299/0217-contains-duplicate.cpp) | O(n) | O(n) |
 
 ## Local Testing
 
