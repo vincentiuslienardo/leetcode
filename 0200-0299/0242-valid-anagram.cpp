@@ -5,14 +5,15 @@ public:
             return false;
         }
 
-        int counts[26] = {};
+        int count[26] = {0};
 
-        for (char c : s) {
-            ++counts[c - 'a'];
+        for (int i = 0; i < s.size(); i++) {
+            count[s[i] - 'a']++;
+            count[t[i] - 'a']--;
         }
 
-        for (char c : t) {
-            if (--counts[c - 'a'] < 0) {
+        for (int x : count) {
+            if (x != 0) {
                 return false;
             }
         }
