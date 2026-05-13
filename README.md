@@ -81,7 +81,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | # | Topic | Status |
 |---:|---|---|
 | 1 | Arrays & Hashing | In progress |
-| 2 | Two Pointers | Not started |
+| 2 | Two Pointers | In progress |
 | 3 | Sliding Window | Not started |
 | 4 | Stack | Not started |
 | 5 | Binary Search | Not started |
@@ -106,6 +106,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0001 | Two Sum | Easy | Arrays & Hashing | [C++](0001-0099/0001-two-sum.cpp) | O(n) | O(n) |
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
 | 0049 | Group Anagrams | Medium | Arrays & Hashing | [C++](0001-0099/0049-group-anagrams.cpp) | O(n * k) | O(n * k) |
+| 0125 | Valid Palindrome | Easy | Two Pointers | [C++](0100-0199/0125-valid-palindrome.cpp) | O(n) | O(1) |
 | 0128 | Longest Consecutive Sequence | Medium | Arrays & Hashing | [C++](0100-0199/0128-longest-consecutive-sequence.cpp) | O(n) | O(n) |
 | 0217 | Contains Duplicate | Easy | Arrays & Hashing | [C++](0200-0299/0217-contains-duplicate.cpp) | O(n) | O(n) |
 | 0238 | Product of Array Except Self | Medium | Arrays & Hashing | [C++](0200-0299/0238-product-of-array-except-self.cpp) | O(n) | O(1) |
