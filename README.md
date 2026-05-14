@@ -82,7 +82,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 |---:|---|---|
 | 1 | Arrays & Hashing | In progress |
 | 2 | Two Pointers | In progress |
-| 3 | Sliding Window | Not started |
+| 3 | Sliding Window | In progress |
 | 4 | Stack | Not started |
 | 5 | Binary Search | Not started |
 | 6 | Linked List | Not started |
@@ -108,6 +108,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0015 | 3Sum | Medium | Two Pointers | [C++](0001-0099/0015-3sum.cpp) | O(n^2) | O(1) |
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
 | 0049 | Group Anagrams | Medium | Arrays & Hashing | [C++](0001-0099/0049-group-anagrams.cpp) | O(n * k) | O(n * k) |
+| 0121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | [C++](0100-0199/0121-best-time-to-buy-and-sell-stock.cpp) | O(n) | O(1) |
 | 0125 | Valid Palindrome | Easy | Two Pointers | [C++](0100-0199/0125-valid-palindrome.cpp) | O(n) | O(1) |
 | 0128 | Longest Consecutive Sequence | Medium | Arrays & Hashing | [C++](0100-0199/0128-longest-consecutive-sequence.cpp) | O(n) | O(n) |
 | 0167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers | [C++](0100-0199/0167-two-sum-ii-input-array-is-sorted.cpp) | O(n) | O(1) |
