@@ -104,6 +104,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | # | Problem | Difficulty | Topic | Solution | Time | Space |
 |---:|---|---|---|---|---|---|
 | 0001 | Two Sum | Easy | Arrays & Hashing | [C++](0001-0099/0001-two-sum.cpp) | O(n) | O(n) |
+| 0003 | Longest Substring Without Repeating Characters | Medium | Sliding Window | [C++](0001-0099/0003-longest-substring-without-repeating-characters.cpp) | O(n) | O(1) |
 | 0011 | Container With Most Water | Medium | Two Pointers | [C++](0001-0099/0011-container-with-most-water.cpp) | O(n) | O(1) |
 | 0015 | 3Sum | Medium | Two Pointers | [C++](0001-0099/0015-3sum.cpp) | O(n^2) | O(log n) |
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
