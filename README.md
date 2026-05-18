@@ -117,6 +117,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0238 | Product of Array Except Self | Medium | Arrays & Hashing | [C++](0200-0299/0238-product-of-array-except-self.cpp) | O(n) | O(1) |
 | 0242 | Valid Anagram | Easy | Arrays & Hashing | [C++](0200-0299/0242-valid-anagram.cpp) | O(n) | O(1) |
 | 0347 | Top K Frequent Elements | Medium | Arrays & Hashing | [C++](0300-0399/0347-top-k-frequent-elements.cpp) | O(n) | O(n) |
+| 0424 | Longest Repeating Character Replacement | Medium | Sliding Window | [C++](0400-0499/0424-longest-repeating-character-replacement.cpp) | O(n) | O(1) |
 
 ## Local Testing
 
