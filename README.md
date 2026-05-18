@@ -83,7 +83,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 1 | Arrays & Hashing | In progress |
 | 2 | Two Pointers | In progress |
 | 3 | Sliding Window | In progress |
-| 4 | Stack | Not started |
+| 4 | Stack | In progress |
 | 5 | Binary Search | Not started |
 | 6 | Linked List | Not started |
 | 7 | Trees | Not started |
@@ -107,6 +107,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0003 | Longest Substring Without Repeating Characters | Medium | Sliding Window | [C++](0001-0099/0003-longest-substring-without-repeating-characters.cpp) | O(n) | O(1) |
 | 0011 | Container With Most Water | Medium | Two Pointers | [C++](0001-0099/0011-container-with-most-water.cpp) | O(n) | O(1) |
 | 0015 | 3Sum | Medium | Two Pointers | [C++](0001-0099/0015-3sum.cpp) | O(n^2) | O(log n) |
+| 0020 | Valid Parentheses | Easy | Stack | [C++](0001-0099/0020-valid-parentheses.cpp) | O(n) | O(n) |
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
 | 0049 | Group Anagrams | Medium | Arrays & Hashing | [C++](0001-0099/0049-group-anagrams.cpp) | O(n * k) | O(n * k) |
 | 0121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | [C++](0100-0199/0121-best-time-to-buy-and-sell-stock.cpp) | O(n) | O(1) |
