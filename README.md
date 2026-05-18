@@ -113,6 +113,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | [C++](0100-0199/0121-best-time-to-buy-and-sell-stock.cpp) | O(n) | O(1) |
 | 0125 | Valid Palindrome | Easy | Two Pointers | [C++](0100-0199/0125-valid-palindrome.cpp) | O(n) | O(1) |
 | 0128 | Longest Consecutive Sequence | Medium | Arrays & Hashing | [C++](0100-0199/0128-longest-consecutive-sequence.cpp) | O(n) | O(n) |
+| 0155 | Min Stack | Medium | Stack | [C++](0100-0199/0155-min-stack.cpp) | O(1) | O(n) |
 | 0167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers | [C++](0100-0199/0167-two-sum-ii-input-array-is-sorted.cpp) | O(n) | O(1) |
 | 0217 | Contains Duplicate | Easy | Arrays & Hashing | [C++](0200-0299/0217-contains-duplicate.cpp) | O(n) | O(n) |
 | 0238 | Product of Array Except Self | Medium | Arrays & Hashing | [C++](0200-0299/0238-product-of-array-except-self.cpp) | O(n) | O(1) |
