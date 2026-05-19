@@ -123,6 +123,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0424 | Longest Repeating Character Replacement | Medium | Sliding Window | [C++](0400-0499/0424-longest-repeating-character-replacement.cpp) | O(n) | O(1) |
 | 0567 | Permutation in String | Medium | Sliding Window | [C++](0500-0599/0567-permutation-in-string.cpp) | O(n) | O(1) |
 | 0739 | Daily Temperatures | Medium | Stack | [C++](0700-0799/0739-daily-temperatures.cpp) | O(n) | O(n) |
+| 0853 | Car Fleet | Medium | Stack | [C++](0800-0899/0853-car-fleet.cpp) | O(n log n) | O(n) |
 
 ## Local Testing
 
