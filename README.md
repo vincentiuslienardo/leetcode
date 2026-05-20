@@ -85,7 +85,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 3 | Sliding Window | In progress |
 | 4 | Stack | In progress |
 | 5 | Binary Search | In progress |
-| 6 | Linked List | Not started |
+| 6 | Linked List | In progress |
 | 7 | Trees | Not started |
 | 8 | Tries | Not started |
 | 9 | Heap / Priority Queue | Not started |
@@ -119,6 +119,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [C++](0100-0199/0153-find-minimum-in-rotated-sorted-array.cpp) | O(log n) | O(1) |
 | 0155 | Min Stack | Medium | Stack | [C++](0100-0199/0155-min-stack.cpp) | O(1) | O(n) |
 | 0167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers | [C++](0100-0199/0167-two-sum-ii-input-array-is-sorted.cpp) | O(n) | O(1) |
+| 0206 | Reverse Linked List | Easy | Linked List | [C++](0200-0299/0206-reverse-linked-list.cpp) | O(n) | O(1) |
 | 0217 | Contains Duplicate | Easy | Arrays & Hashing | [C++](0200-0299/0217-contains-duplicate.cpp) | O(n) | O(n) |
 | 0238 | Product of Array Except Self | Medium | Arrays & Hashing | [C++](0200-0299/0238-product-of-array-except-self.cpp) | O(n) | O(1) |
 | 0242 | Valid Anagram | Easy | Arrays & Hashing | [C++](0200-0299/0242-valid-anagram.cpp) | O(n) | O(1) |
