@@ -108,6 +108,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0011 | Container With Most Water | Medium | Two Pointers | [C++](0001-0099/0011-container-with-most-water.cpp) | O(n) | O(1) |
 | 0015 | 3Sum | Medium | Two Pointers | [C++](0001-0099/0015-3sum.cpp) | O(n^2) | O(log n) |
 | 0020 | Valid Parentheses | Easy | Stack | [C++](0001-0099/0020-valid-parentheses.cpp) | O(n) | O(n) |
+| 0033 | Search in Rotated Sorted Array | Medium | Binary Search | [C++](0001-0099/0033-search-in-rotated-sorted-array.cpp) | O(log n) | O(1) |
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
 | 0049 | Group Anagrams | Medium | Arrays & Hashing | [C++](0001-0099/0049-group-anagrams.cpp) | O(n * k) | O(n * k) |
 | 0074 | Search a 2D Matrix | Medium | Binary Search | [C++](0001-0099/0074-search-a-2d-matrix.cpp) | O(log(m * n)) | O(1) |
