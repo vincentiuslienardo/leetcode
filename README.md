@@ -133,6 +133,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0853 | Car Fleet | Medium | Stack | [C++](0800-0899/0853-car-fleet.cpp) | O(n log n) | O(n) |
 | 0875 | Koko Eating Bananas | Medium | Binary Search | [C++](0800-0899/0875-koko-eating-bananas.cpp) | O(n log m) | O(1) |
 | 0981 | Time Based Key-Value Store | Medium | Binary Search | [C++](0900-0999/0981-time-based-key-value-store.cpp) | set: O(1), get: O(log n) | O(n) |
+| 3936 | Minimum Swaps to Move Zeros to End | Easy | Arrays & Hashing | [C++](3900-3999/3936-minimum-swaps-to-move-zeros-to-end.cpp) | O(n) | O(1) |
 
 ## Local Testing
 
