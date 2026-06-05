@@ -117,6 +117,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0125 | Valid Palindrome | Easy | Two Pointers | [C++](0100-0199/0125-valid-palindrome.cpp) | O(n) | O(1) |
 | 0128 | Longest Consecutive Sequence | Medium | Arrays & Hashing | [C++](0100-0199/0128-longest-consecutive-sequence.cpp) | O(n) | O(n) |
 | 0141 | Linked List Cycle | Easy | Linked List | [C++](0100-0199/0141-linked-list-cycle.cpp) | O(n) | O(1) |
+| 0143 | Reorder List | Medium | Linked List | [C++](0100-0199/0143-reorder-list.cpp) | O(n) | O(1) |
 | 0150 | Evaluate Reverse Polish Notation | Medium | Stack | [C++](0100-0199/0150-evaluate-reverse-polish-notation.cpp) | O(n) | O(n) |
 | 0153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [C++](0100-0199/0153-find-minimum-in-rotated-sorted-array.cpp) | O(log n) | O(1) |
 | 0155 | Min Stack | Medium | Stack | [C++](0100-0199/0155-min-stack.cpp) | O(1) | O(n) |
