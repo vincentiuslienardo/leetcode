@@ -138,6 +138,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 3936 | Minimum Swaps to Move Zeros to End | Easy | Arrays & Hashing | [C++](3900-3999/3936-minimum-swaps-to-move-zeros-to-end.cpp) | O(n) | O(1) |
 | 3937 | Minimum Operations to Make Array Modulo Alternating I | Medium | Arrays & Hashing | [C++](3900-3999/3937-minimum-operations-to-make-array-modulo-alternating-i.cpp) | O(n * k + k^2) | O(k) |
 | 3950 | Exactly One Consecutive Set Bits Pair | Easy | Bit Manipulation | [C++](3900-3999/3950-exactly-one-consecutive-set-bits-pair.cpp) | O(log n) | O(1) |
+| 3951 | Minimum Energy to Maintain Brightness | Medium | Intervals | [C++](3900-3999/3951-minimum-energy-to-maintain-brightness.cpp) | O(m log m) | O(log m) |
 
 ## Local Testing
 
