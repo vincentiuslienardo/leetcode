@@ -117,6 +117,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | [C++](0100-0199/0121-best-time-to-buy-and-sell-stock.cpp) | O(n) | O(1) |
 | 0125 | Valid Palindrome | Easy | Two Pointers | [C++](0100-0199/0125-valid-palindrome.cpp) | O(n) | O(1) |
 | 0128 | Longest Consecutive Sequence | Medium | Arrays & Hashing | [C++](0100-0199/0128-longest-consecutive-sequence.cpp) | O(n) | O(n) |
+| 0138 | Copy List with Random Pointer | Medium | Linked List | [C++](0100-0199/0138-copy-list-with-random-pointer.cpp) | O(n) | O(n) |
 | 0141 | Linked List Cycle | Easy | Linked List | [C++](0100-0199/0141-linked-list-cycle.cpp) | O(n) | O(1) |
 | 0143 | Reorder List | Medium | Linked List | [C++](0100-0199/0143-reorder-list.cpp) | O(n) | O(1) |
 | 0150 | Evaluate Reverse Polish Notation | Medium | Stack | [C++](0100-0199/0150-evaluate-reverse-polish-notation.cpp) | O(n) | O(n) |
