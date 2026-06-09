@@ -86,7 +86,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 4 | Stack | In progress |
 | 5 | Binary Search | In progress |
 | 6 | Linked List | In progress |
-| 7 | Trees | Not started |
+| 7 | Trees | In progress |
 | 8 | Tries | Not started |
 | 9 | Heap / Priority Queue | Not started |
 | 10 | Backtracking | Not started |
@@ -128,6 +128,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers | [C++](0100-0199/0167-two-sum-ii-input-array-is-sorted.cpp) | O(n) | O(1) |
 | 0206 | Reverse Linked List | Easy | Linked List | [C++](0200-0299/0206-reverse-linked-list.cpp) | O(n) | O(1) |
 | 0217 | Contains Duplicate | Easy | Arrays & Hashing | [C++](0200-0299/0217-contains-duplicate.cpp) | O(n) | O(n) |
+| 0226 | Invert Binary Tree | Easy | Trees | [C++](0200-0299/0226-invert-binary-tree.cpp) | O(n) | O(h) |
 | 0238 | Product of Array Except Self | Medium | Arrays & Hashing | [C++](0200-0299/0238-product-of-array-except-self.cpp) | O(n) | O(1) |
 | 0242 | Valid Anagram | Easy | Arrays & Hashing | [C++](0200-0299/0242-valid-anagram.cpp) | O(n) | O(1) |
 | 0287 | Find the Duplicate Number | Medium | Linked List | [C++](0200-0299/0287-find-the-duplicate-number.cpp) | O(n) | O(1) |
