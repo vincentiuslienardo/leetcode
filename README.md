@@ -121,6 +121,7 @@ Topics follow the [NeetCode 150 Roadmap](https://neetcode.io/practice/practice/n
 | 0138 | Copy List with Random Pointer | Medium | Linked List | [C++](0100-0199/0138-copy-list-with-random-pointer.cpp) | O(n) | O(n) |
 | 0141 | Linked List Cycle | Easy | Linked List | [C++](0100-0199/0141-linked-list-cycle.cpp) | O(n) | O(1) |
 | 0143 | Reorder List | Medium | Linked List | [C++](0100-0199/0143-reorder-list.cpp) | O(n) | O(1) |
+| 0146 | LRU Cache | Medium | Linked List | [C++](0100-0199/0146-lru-cache.cpp) | get: O(1), put: O(1) | O(n) |
 | 0150 | Evaluate Reverse Polish Notation | Medium | Stack | [C++](0100-0199/0150-evaluate-reverse-polish-notation.cpp) | O(n) | O(n) |
 | 0153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [C++](0100-0199/0153-find-minimum-in-rotated-sorted-array.cpp) | O(log n) | O(1) |
 | 0155 | Min Stack | Medium | Stack | [C++](0100-0199/0155-min-stack.cpp) | O(1) | O(n) |
