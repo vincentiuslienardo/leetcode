@@ -34,6 +34,7 @@
 | 0287 | Find the Duplicate Number | Medium | Linked List | [C++](0200-0299/0287-find-the-duplicate-number.cpp) | O(n) | O(1) |
 | 0347 | Top K Frequent Elements | Medium | Arrays & Hashing | [C++](0300-0399/0347-top-k-frequent-elements.cpp) | O(n) | O(n) |
 | 0424 | Longest Repeating Character Replacement | Medium | Sliding Window | [C++](0400-0499/0424-longest-repeating-character-replacement.cpp) | O(n) | O(1) |
+| 0543 | Diameter of Binary Tree | Easy | Trees | [C++](0500-0599/0543-diameter-of-binary-tree.cpp) | O(n) | O(h) |
 | 0567 | Permutation in String | Medium | Sliding Window | [C++](0500-0599/0567-permutation-in-string.cpp) | O(n) | O(1) |
 | 0704 | Binary Search | Easy | Binary Search | [C++](0700-0799/0704-binary-search.cpp) | O(log n) | O(1) |
 | 0739 | Daily Temperatures | Medium | Stack | [C++](0700-0799/0739-daily-temperatures.cpp) | O(n) | O(n) |
