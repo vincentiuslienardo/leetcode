@@ -14,6 +14,7 @@
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
 | 0049 | Group Anagrams | Medium | Arrays & Hashing | [C++](0001-0099/0049-group-anagrams.cpp) | O(n * k) | O(n * k) |
 | 0074 | Search a 2D Matrix | Medium | Binary Search | [C++](0001-0099/0074-search-a-2d-matrix.cpp) | O(log(m * n)) | O(1) |
+| 0100 | Same Tree | Easy | Trees | [C++](0100-0199/0100-same-tree.cpp) | O(n) | O(h) |
 | 0104 | Maximum Depth of Binary Tree | Easy | Trees | [C++](0100-0199/0104-maximum-depth-of-binary-tree.cpp) | O(n) | O(h) |
 | 0110 | Balanced Binary Tree | Easy | Trees | [C++](0100-0199/0110-balanced-binary-tree.cpp) | O(n) | O(h) |
 | 0121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | [C++](0100-0199/0121-best-time-to-buy-and-sell-stock.cpp) | O(n) | O(1) |
