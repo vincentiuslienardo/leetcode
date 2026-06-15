@@ -34,6 +34,7 @@
 | 0206 | Reverse Linked List | Easy | Linked List | [C++](0200-0299/0206-reverse-linked-list.cpp) | O(n) | O(1) |
 | 0217 | Contains Duplicate | Easy | Arrays & Hashing | [C++](0200-0299/0217-contains-duplicate.cpp) | O(n) | O(n) |
 | 0226 | Invert Binary Tree | Easy | Trees | [C++](0200-0299/0226-invert-binary-tree.cpp) | O(n) | O(h) |
+| 0230 | Kth Smallest Element in a BST | Medium | Trees | [C++](0200-0299/0230-kth-smallest-element-in-a-bst.cpp) | O(h + k) | O(h) |
 | 0235 | Lowest Common Ancestor of a Binary Search Tree | Medium | Trees | [C++](0200-0299/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp) | O(h) | O(1) |
 | 0238 | Product of Array Except Self | Medium | Arrays & Hashing | [C++](0200-0299/0238-product-of-array-except-self.cpp) | O(n) | O(1) |
 | 0242 | Valid Anagram | Easy | Arrays & Hashing | [C++](0200-0299/0242-valid-anagram.cpp) | O(n) | O(1) |
