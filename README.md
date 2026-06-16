@@ -50,6 +50,7 @@
 | 0739 | Daily Temperatures | Medium | Stack | [C++](0700-0799/0739-daily-temperatures.cpp) | O(n) | O(n) |
 | 0853 | Car Fleet | Medium | Stack | [C++](0800-0899/0853-car-fleet.cpp) | O(n log n) | O(n) |
 | 0875 | Koko Eating Bananas | Medium | Binary Search | [C++](0800-0899/0875-koko-eating-bananas.cpp) | O(n log m) | O(1) |
+| 0973 | K Closest Points to Origin | Medium | Heap / Priority Queue | [C++](0900-0999/0973-k-closest-points-to-origin.cpp) | O(n log k) | O(k) |
 | 0981 | Time Based Key-Value Store | Medium | Binary Search | [C++](0900-0999/0981-time-based-key-value-store.cpp) | set: O(1), get: O(log n) | O(n) |
 | 1046 | Last Stone Weight | Easy | Heap / Priority Queue | [C++](1000-1099/1046-last-stone-weight.cpp) | O(n log n) | O(n) |
 | 1448 | Count Good Nodes in Binary Tree | Medium | Trees | [C++](1400-1499/1448-count-good-nodes-in-binary-tree.cpp) | O(n) | O(h) |
