@@ -45,6 +45,7 @@
 | 0543 | Diameter of Binary Tree | Easy | Trees | [C++](0500-0599/0543-diameter-of-binary-tree.cpp) | O(n) | O(h) |
 | 0567 | Permutation in String | Medium | Sliding Window | [C++](0500-0599/0567-permutation-in-string.cpp) | O(n) | O(1) |
 | 0572 | Subtree of Another Tree | Easy | Trees | [C++](0500-0599/0572-subtree-of-another-tree.cpp) | O(n * m) | O(h + s) |
+| 0703 | Kth Largest Element in a Stream | Easy | Heap / Priority Queue | [C++](0700-0799/0703-kth-largest-element-in-a-stream.cpp) | init: O(n log k), add: O(log k) | O(k) |
 | 0704 | Binary Search | Easy | Binary Search | [C++](0700-0799/0704-binary-search.cpp) | O(log n) | O(1) |
 | 0739 | Daily Temperatures | Medium | Stack | [C++](0700-0799/0739-daily-temperatures.cpp) | O(n) | O(n) |
 | 0853 | Car Fleet | Medium | Stack | [C++](0800-0899/0853-car-fleet.cpp) | O(n log n) | O(n) |
