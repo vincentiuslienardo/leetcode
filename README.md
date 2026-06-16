@@ -18,6 +18,7 @@
 | 0100 | Same Tree | Easy | Trees | [C++](0100-0199/0100-same-tree.cpp) | O(n) | O(h) |
 | 0102 | Binary Tree Level Order Traversal | Medium | Trees | [C++](0100-0199/0102-binary-tree-level-order-traversal.cpp) | O(n) | O(n) |
 | 0104 | Maximum Depth of Binary Tree | Easy | Trees | [C++](0100-0199/0104-maximum-depth-of-binary-tree.cpp) | O(n) | O(h) |
+| 0105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Trees | [C++](0100-0199/0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp) | O(n) | O(n) |
 | 0110 | Balanced Binary Tree | Easy | Trees | [C++](0100-0199/0110-balanced-binary-tree.cpp) | O(n) | O(h) |
 | 0121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | [C++](0100-0199/0121-best-time-to-buy-and-sell-stock.cpp) | O(n) | O(1) |
 | 0125 | Valid Palindrome | Easy | Two Pointers | [C++](0100-0199/0125-valid-palindrome.cpp) | O(n) | O(1) |
