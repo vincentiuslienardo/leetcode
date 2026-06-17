@@ -14,6 +14,7 @@
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
 | 0049 | Group Anagrams | Medium | Arrays & Hashing | [C++](0001-0099/0049-group-anagrams.cpp) | O(n * k) | O(n * k) |
 | 0074 | Search a 2D Matrix | Medium | Binary Search | [C++](0001-0099/0074-search-a-2d-matrix.cpp) | O(log(m * n)) | O(1) |
+| 0078 | Subsets | Medium | Backtracking | [C++](0001-0099/0078-subsets.cpp) | O(n * 2^n) | O(n * 2^n) |
 | 0098 | Validate Binary Search Tree | Medium | Trees | [C++](0001-0099/0098-validate-binary-search-tree.cpp) | O(n) | O(h) |
 | 0100 | Same Tree | Easy | Trees | [C++](0100-0199/0100-same-tree.cpp) | O(n) | O(h) |
 | 0102 | Binary Tree Level Order Traversal | Medium | Trees | [C++](0100-0199/0102-binary-tree-level-order-traversal.cpp) | O(n) | O(n) |
