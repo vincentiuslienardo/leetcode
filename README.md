@@ -14,6 +14,7 @@
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
 | 0039 | Combination Sum | Medium | Backtracking | [C++](0001-0099/0039-combination-sum.cpp) | O(2^(n + t / m)) | O(r * t / m) |
 | 0040 | Combination Sum II | Medium | Backtracking | [C++](0001-0099/0040-combination-sum-ii.cpp) | O(n log n + n * 2^n) | O(r * n) |
+| 0046 | Permutations | Medium | Backtracking | [C++](0001-0099/0046-permutations.cpp) | O(n * n!) | O(n * n!) |
 | 0049 | Group Anagrams | Medium | Arrays & Hashing | [C++](0001-0099/0049-group-anagrams.cpp) | O(n * k) | O(n * k) |
 | 0074 | Search a 2D Matrix | Medium | Binary Search | [C++](0001-0099/0074-search-a-2d-matrix.cpp) | O(log(m * n)) | O(1) |
 | 0078 | Subsets | Medium | Backtracking | [C++](0001-0099/0078-subsets.cpp) | O(n * 2^n) | O(n * 2^n) |
