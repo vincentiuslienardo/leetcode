@@ -67,3 +67,4 @@
 | 3950 | Exactly One Consecutive Set Bits Pair | Easy | Bit Manipulation | [C++](3900-3999/3950-exactly-one-consecutive-set-bits-pair.cpp) | O(log n) | O(1) |
 | 3951 | Minimum Energy to Maintain Brightness | Medium | Intervals | [C++](3900-3999/3951-minimum-energy-to-maintain-brightness.cpp) | O(m log m) | O(log m) |
 | 3959 | Check Good Integer | Easy | Math & Geometry | [C++](3900-3999/3959-check-good-integer.cpp) | O(log n) | O(1) |
+| 3963 | Create Grid With Exactly One Path | Easy | Matrix | [C++](3900-3999/3963-create-grid-with-exactly-one-path.cpp) | O(m * n) | O(m * n) |
