@@ -10,6 +10,7 @@
 | 0019 | Remove Nth Node From End of List | Medium | Linked List | [C++](0001-0099/0019-remove-nth-node-from-end-of-list.cpp) | O(n) | O(1) |
 | 0020 | Valid Parentheses | Easy | Stack | [C++](0001-0099/0020-valid-parentheses.cpp) | O(n) | O(n) |
 | 0021 | Merge Two Sorted Lists | Easy | Linked List | [C++](0001-0099/0021-merge-two-sorted-lists.cpp) | O(n + m) | O(1) |
+| 0022 | Generate Parentheses | Medium | Backtracking | [C++](0001-0099/0022-generate-parentheses.cpp) | O(n * C_n) | O(n * C_n) |
 | 0033 | Search in Rotated Sorted Array | Medium | Binary Search | [C++](0001-0099/0033-search-in-rotated-sorted-array.cpp) | O(log n) | O(1) |
 | 0036 | Valid Sudoku | Medium | Arrays & Hashing | [C++](0001-0099/0036-valid-sudoku.cpp) | O(1) | O(1) |
 | 0039 | Combination Sum | Medium | Backtracking | [C++](0001-0099/0039-combination-sum.cpp) | O(2^(n + t / m)) | O(r * t / m) |
